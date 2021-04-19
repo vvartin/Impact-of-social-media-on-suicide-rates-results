@@ -1,5 +1,9 @@
 # Impact-of-social-media-on-suicide-rates-results
 
+
+[![DOI](https://zenodo.org/badge/359520003.svg)](https://zenodo.org/badge/latestdoi/359520003)
+
+
 ## Description
 Produced results Impact of social media on suicide rates (https://github.com/vvartin/Impact-of-social-media-on-suicide-rates/)
 
