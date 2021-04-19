@@ -1,0 +1,12 @@
+file: data/produced/final/social-media-impact-on-suicide-rates.csv
+Columns:
+year: numeric year in range 2010-2019
+sex: sex of the observed population, values: ML - male, FML - female, BTSX - combined female and male
+Suicide Rate % change since 2010: an overall percentual change in suicide rate with regards to the baseline taken at year 2010
+Twitter user count % change since 2010: an overall percentual change in total number of Twitter users with regards to the baseline taken at year 2010
+Facebook user count % change since 2010: an overall percentual change in total number of Facebook users with regards to the baseline taken at year 2010
+
+files in data/produced/figures/
+The x axis shows the year range (2010-2019)
+The y axis shows the percentual change calculated as: value_at_given_year/value_at_year_2010 * 100
+The main variable of interest - the suicide rate - is marked as blue dashed line
