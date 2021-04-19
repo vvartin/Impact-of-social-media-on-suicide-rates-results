@@ -11,6 +11,8 @@ This repository follows the same naming convention as the project repository whe
 	* produced/ - contains the datasets created by the code
 		* final/ - contains the final merged dataset used in analysis 
 		* figures/ - contains produced figures
+* documentation
+	* documentation/output-description.txt - explanation of the produced files with regards to axis or newly produced columns
 
 
 ## Credits
