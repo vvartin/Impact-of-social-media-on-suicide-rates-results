@@ -18,7 +18,8 @@ This repository follows the same naming convention as the project repository whe
 A *-* separator was chosen in place of spaces to facilitate command line interactions.
 
 For figures the naming convention is as follows: \<figure-type\>--\<timestamp\>
-	* \<figure-type\> - the type of the figure, descriptive name what the figure contains
+
+* \<figure-type\> - the type of the figure, descriptive name what the figure contains
 
 ## Credits
 * WHO data export (https://apps.who.int/gho/athena/api/GHO/SDGSUICIDE.csv) was used bound by the following poilcy: https://www.who.int/about/who-we-are/publishing-policies/data-policy
